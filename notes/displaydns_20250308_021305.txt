@@ -1,0 +1,121 @@
+
+Windows IP Configuration
+
+    250.20.109.140.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 250.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 67176
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : nsslave1.iis.sinica.edu.tw
+
+
+    Record Name . . . . . : 250.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 67176
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : ns1.iis.sinica.edu.tw
+
+
+    ipv4only.arpa
+    ----------------------------------------
+    Record Name . . . . . : ipv4only.arpa
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4029
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.0.171
+
+
+    Record Name . . . . . : ipv4only.arpa
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4029
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.0.170
+
+
+    telemetry-incoming.r53-2.services.mozilla.com
+    ----------------------------------------
+    Record Name . . . . . : telemetry-incoming.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 154
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.120.208.123
+
+
+    252.20.109.140.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 252.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 67177
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : ns2.iis.sinica.edu.tw
+
+
+    Record Name . . . . . : 252.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 67177
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : nsslave2.iis.sinica.edu.tw
+
+
+    16.138.69.203.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 16.138.69.203.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 67175
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : 203-69-138-16.hinet-ip.hinet.net
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 203
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 203
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 203
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 203
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    api.github.com
+    ----------------------------------------
+    Record Name . . . . . : api.github.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.27.177.116
+
+
