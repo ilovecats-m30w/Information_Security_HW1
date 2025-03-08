@@ -1,0 +1,281 @@
+
+Windows IP Configuration
+
+    250.20.109.140.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 250.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 69799
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : nsslave1.iis.sinica.edu.tw
+
+
+    Record Name . . . . . : 250.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 69799
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : ns1.iis.sinica.edu.tw
+
+
+    sb-ssl.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : sb-ssl.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 147
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4012:9::200e
+
+
+    sb-ssl.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : sb-ssl.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 147
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.204.46
+
+
+    ipv4only.arpa
+    ----------------------------------------
+    Record Name . . . . . : ipv4only.arpa
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 6652
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.0.171
+
+
+    Record Name . . . . . : ipv4only.arpa
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 6652
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.0.170
+
+
+    firefox.settings.services.mozilla.com
+    ----------------------------------------
+    Record Name . . . . . : firefox.settings.services.mozilla.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 16
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : prod.remote-settings.prod.webservices.mozgcp.net
+
+
+    Record Name . . . . . : prod.remote-settings.prod.webservices.mozgcp.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 16
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.149.100.209
+
+
+    252.20.109.140.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 252.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 69800
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : ns2.iis.sinica.edu.tw
+
+
+    Record Name . . . . . : 252.20.109.140.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 69800
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : nsslave2.iis.sinica.edu.tw
+
+
+    sb-ssl.google.com
+    ----------------------------------------
+    Record Name . . . . . : sb-ssl.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 147
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : sb-ssl.l.google.com
+
+
+    Record Name . . . . . : sb-ssl.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 147
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.204.46
+
+
+    api.msn.com
+    ----------------------------------------
+    Record Name . . . . . : api.msn.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 225
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : api-msn-com.a-0003.a-msedge.net
+
+
+    Record Name . . . . . : api-msn-com.a-0003.a-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 225
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0003.a-msedge.net
+
+
+    Record Name . . . . . : a-0003.a-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 225
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 204.79.197.203
+
+
+    raw.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2329
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2329
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2329
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2329
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    16.138.69.203.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 16.138.69.203.in-addr.arpa
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 69798
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : 203-69-138-16.hinet-ip.hinet.net
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2826
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2826
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2826
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2826
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    api.github.com
+    ----------------------------------------
+    Record Name . . . . . : api.github.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 25
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.27.177.116
+
+
+    array604.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array604.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2563
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.74.138.55
+
+
+    prod.remote-settings.prod.webservices.mozgcp.net
+    ----------------------------------------
+    Record Name . . . . . : prod.remote-settings.prod.webservices.mozgcp.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 16
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.149.100.209
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2380
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.154
+
+
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2380
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.154
+
+
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2380
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.154
+
+
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2380
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.154
+
+
